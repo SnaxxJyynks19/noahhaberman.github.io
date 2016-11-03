@@ -1,7 +1,5 @@
 html, body {
     
-    background-image:
-        url("http://wall-papers.info/image.php?pic=/images/lined-paper-wallpaper/lined-paper-wallpaper-13.png");
     font-family: Georgia, serif;
     margin: 0;
     width: 100%;
@@ -23,7 +21,7 @@ h2 {
 }
 
 h6 {
-    font size: 0.25rem
+    font size: 2rem
 }    
 
 .main {
